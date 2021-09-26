@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.141592653-p3.9.0-210218-2.6 (utf8.euc) (TeX Live 2021/Arch Linux) (preloaded format=platex 2021.6.6)  26 SEP 2021 17:28
+This is e-pTeX, Version 3.141592653-p3.9.0-210218-2.6 (utf8.euc) (TeX Live 2021/Arch Linux) (preloaded format=platex 2021.6.6)  26 SEP 2021 17:39
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -425,16 +425,14 @@ LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
 ]
 LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
 (Font)              scaled to size 9.60999pt on input line 101.
-File: graph.png Graphic file (type bmp)
- <graph.png> [2]
-(./class01.aux) ) 
+ [2] (./class01.aux) ) 
 Here is how much of TeX's memory you used:
- 4683 strings out of 479466
- 62408 string characters out of 5875814
+ 4676 strings out of 479466
+ 62319 string characters out of 5875814
  564631 words of memory out of 5000000
- 22299 multiletter control sequences out of 15000+600000
+ 22296 multiletter control sequences out of 15000+600000
  423377 words of font info for 116 fonts, out of 8000000 for 9000
  934 hyphenation exceptions out of 8191
- 68i,7n,74p,226b,316s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 68i,7n,74p,226b,314s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on class01.dvi (2 pages, 10360 bytes).
+Output written on class01.dvi (2 pages, 11260 bytes).
