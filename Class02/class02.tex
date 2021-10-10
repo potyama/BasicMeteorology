@@ -124,11 +124,79 @@ backgroundcolor={\color[gray]{.90}},
 \begin{problems}
 % 以下に解答を作成してGit Push。
 \item 
+	\begin{enumerate}[(1)]
+		\item
+		\begin{enumerate}[(A)]
+			\item エーロゾル
+			\item 35
+			\item 熱
+		\end{enumerate}
+		\item
+		低緯度帯では、太陽からの正味の入射エネルギーは地球$\-$大気系から赤外放射として放出される量より多いが、高緯度帯だと逆になるから。
+		\item
+		地球の赤道面が軌道面と23.5度の角をもっているため、場所によって当たる量が違うから。
+	\end{enumerate}
 
 \item 
-
+	\begin{enumerate}[(1)]
+	\item
+	アルベド
+	\item
+	古びて土が入るとアルベドが新しい雪に比べ、下がる。すなわち、熱が新しい雪よりも吸収しやすいため、溶けやすくなる。
+	\item
+\begin{table}[h]
+\begin{tabular}{lll}
+      & ミー散乱                    & レイリー散乱                      \\
+散乱の違い & 入射放射の波長に比して粒子の半径が非常に小さい & 光の波長と粒子の半径が同じ程度の大きさであるときの散乱  \\
+強さ    & 波長によらない                 & 波長の4乗に反比例                 \\
+起こる場所 & 雲の近く                    & 大気                         
+\end{tabular}
+\end{table}
+	\item
+		$CO_2 15\mu m$帯、$H_2 O6.3\mu m$帯
+	\item
+		電磁波に対し、大気吸収の小さい波長帯・周波数帯のことを大気の窓という。
+	\item
+		温室効果ガス、\\	
+			例)水蒸気、二酸化炭素($CO_2$)、メタン($CH_4$)、一酸化荷窒素($N_2O$)、六フッ化硫黄($SF_6$)\\
+			最も寄与が大きい気体は水蒸気である。
+	\item
+		地球温暖化
+	\end{enumerate}
 \item 
+	\begin{enumerate}[(1)]
+	\item
+		入射放射をすべて完全に吸収するという仮想的な物体を考えると、その物体の与えられた温度で理論上の最大エネルギーを放射する。このような仮想的物体を黒体という。
+	\item
+		黒体(ある対象)の性質、分布が方向に依存しないことである。
+	\item
 
+        	\begin{align*}
+			      B_{\lambda}(T)=&\frac{2hc^2}{\lambda^5\{\exp(hc/k_B\lambda T)-1\}} \\
+			      =& \int^\infty_0 \frac{2hc^2}{\lambda^5\{\exp(hc/k_B\lambda T)-1\}} d\lambda \\
+            \frac{hc}{k_B\lambda T} = xより\\
+            \frac{1}{\lambda} =& \frac{k_BT}{hc} x\\
+            d\lambda =& -\frac{\lambda^2 k_BT}{hc} x\\
+            =& 2ck_BT\int^\infty_0 \frac{1}{\lambda^3(e^x-1)}dx\\
+            =& 2ck_BT\left(\frac{k_BT}{hc}\right)^3 \int^\infty_0 \frac{x^3}{e^x-1} dx\\
+            ここで、\int^\infty_0 \frac{x^3}{e^x-1} dx = \frac{\pi^4}{15}となるので、\\
+            =&\frac{2k_B^4T^4}{h^3c^2}\frac{\pi^4}{15}\\
+            \frac{2k_B^4\pi^4}{15h^3c^2} = \sigma とおくと、\\
+            =& \sigma T^4となる。\\
+            また、\sigma =5.74 \times 10^{-12}となった。
+        	\end{align*}
+        \item
+        \begin{align*}
+                プランク関数(\ref{PlanckFunction})の微分が0となる条件を考える。積の微分法をすると、\\
+          B'_{\lambda}(T) =& \frac{2hc^2}{exp^{hc/k_b\lambda T}} \left[-5 + \frac{exp^{hc/k_b\lambda T}hc}{\lambda k_BT(exp^{hc/k_b\lambda T})}  \right]\\
+          となる。
+          -5 + \frac{exp^{hc/k_b\lambda T}hc}{\lambda k_BT(exp^{hc/k_b\lambda T})} =& 0を考える。\\
+          x = \frac{hc}{k_B\lambda T} とすると、\\
+          \frac{x}{1-e^{-x}} =& 5となる。\\
+          よって、\\
+          \lambda =& \frac{hc}{xk_BT}となる。
+        \end{align*}
+  \end{enumerate}
 \end{problems}
 
 \section{読書案内}
