@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.141592653-p3.9.0-210218-2.6 (utf8.euc) (TeX Live 2021/Arch Linux) (preloaded format=platex 2021.6.6)  27 SEP 2021 13:17
+This is e-pTeX, Version 3.141592653-p3.9.0-210218-2.6 (utf8.euc) (TeX Live 2021/Arch Linux) (preloaded format=platex 2021.6.6)  27 SEP 2021 17:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -422,16 +422,33 @@ LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
 ]
 LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
 (Font)              scaled to size 9.60999pt on input line 102.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 139.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.139 ... 32 \times 0.018 \pm 0.04 = 43.7008058\~4
+                                                  3.70050898 \pm 0.04$
+? 
+! You can't use `\spacefactor' in math mode.
+\add@accent ... \accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.139 ... 32 \times 0.018 \pm 0.04 = 43.7008058\~4
+                                                  3.70050898 \pm 0.04$
+? 
+Missing character: There is no ^^e8 in font cmex10!
 File: graph.png Graphic file (type bmp)
 <graph.png>
- [2] (./class01.aux) ) 
+[2] (./class01.aux) ) 
 Here is how much of TeX's memory you used:
  4667 strings out of 479466
  62113 string characters out of 5875814
- 564484 words of memory out of 5000000
+ 566484 words of memory out of 5000000
  22285 multiletter control sequences out of 15000+600000
  423377 words of font info for 116 fonts, out of 8000000 for 9000
  934 hyphenation exceptions out of 8191
  68i,7n,74p,226b,316s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on class01.dvi (2 pages, 11236 bytes).
+Output written on class01.dvi (2 pages, 11592 bytes).
