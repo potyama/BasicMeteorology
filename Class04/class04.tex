@@ -8,11 +8,12 @@
 \textwidth=52zw
 \usepackage{ascmac}
 \usepackage{url}
-\usepackage[dvips]{graphicx}
+\usepackage[dvipdfmx]{graphicx}
 \usepackage{amsmath}
 \usepackage{amssymb}
 \usepackage{multicol}
 \usepackage{bm}
+\usepackage{here}
 \usepackage{enumerate}
 \usepackage{listings}
 \usepackage{fancybox}
@@ -133,9 +134,65 @@ backgroundcolor={\color[gray]{.90}},
 \begin{problems}
 % 以下に解答を作成してGit Push。
 \item 
+	\begin{enumerate}[(1)]
+  \item
+  	\begin{enumerate}[(A)]
+    \item 安定
+    \item 不安定
+    \item 中立
+    \item 気温減率
+    \item 乾燥断熱率
+    \item 湿潤断熱減率
+    \item LCL
+    \item LFC
+    \item CCL
+    \item 対流不安定
+    \end{enumerate}
+
+\item
+\begin{table}[H]
+\begin{tabular}{lll}
+    & 気塊の周囲の空気との重さとの関係 & 加速度の向き \\
+安定  & 気塊の周囲の空気のほうが軽い   & 下      \\
+中立  & 気塊の周囲の空気のほうが同じ   & ない    \\
+不安定 & 気塊の周囲の空気のほうが重い   & 上     
+\end{tabular}
+\end{table}
+  \item
+湿潤断熱減率は、凝結のときに熱を放出する。その熱が、気温を下げるのを抑えているため、乾燥断熱減率のほうが大きくなる。
+  \item
+  \begin{equation}
+  \begin{cases}
+    \gamma > \Gamma_d & 不安定\\
+  \gamma = \Gamma_d & 中立\\
+  \gamma < \Gamma_d & 安定
+  \end{cases}
+  \end{equation}
+\item
+  \begin{equation}
+  \begin{cases}
+    \gamma < \Gamma_s & 絶対安定\\
+    \gamma > \Gamma_s かつ\gamma < \Gamma_d & 湿潤条件付き不安定\\
+  \Gamma_s < \gamma < \Gamma_d & 条件付き不安定\\
+  \gamma < \Gamma_s かつ \gamma > \Gamma_d & 乾燥条件付き不安定\\
+  \gamma > \Gamma_d & 絶対不安定
+  \end{cases}
+  \end{equation}
+
+  \item
+
+    K指数\\$(T_{850}-T_{500})+T_{d850}-(T_{700}-T_{d700}))$\\雷雨の発生確率を評価する\\
+    シュワルター安定指数\\$(T_{500}-T_p)$ \\エマグラム上で850hPa面にある空気の気温と露天から出発し、500hPa面まで強制的に持ち上げたときの気塊の温度を引く\\
+    リフティド指数\\$(T_{500} - T_p)$\\シュワルター安定指数とほどんど同じだが、気塊は海面気圧とほぼ同じ1000hPaである。
+
+  \item
+  相当温位はマイナスになり、対流雲を生じやすく、強い降水や雷を伴うことが多い。
+
+  \end{enumerate}
 
 \item 
 
+容量の関係？でアップロードできないため、同じディレクトリ内のemagram.pngを見てください。
 \item 
 
 \end{problems}

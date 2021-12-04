@@ -1,165 +1,165 @@
-This is e-pTeX, Version 3.14159265-p3.8.2-190908-2.6 (utf8.euc) (TeX Live 2019/Debian) (preloaded format=platex 2020.7.13)  3 OCT 2021 02:14
+This is e-pTeX, Version 3.141592653-p3.9.0-210218-2.6 (utf8.euc) (TeX Live 2021/Arch Linux) (preloaded format=platex 2021.6.6)  4 DEC 2021 22:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**class04
+**class04.tex
 (./class04.tex
-pLaTeX2e <2020-02-02>+2 (based on LaTeX2e <2020-02-02> patch level 2)
-L3 programming layer <2020-02-14>
-(/usr/share/texlive/texmf-dist/tex/platex/jsclasses/jsarticle.cls
-Document Class: jsarticle 2020/02/02 jsclasses (okumura, texjporg)
-\jsc@mpt=\dimen150
-\jsc@mmm=\dimen151
+pLaTeX2e <2020-10-01>+2 (based on LaTeX2e <2020-10-01> patch level 4)
+L3 programming layer <2021-02-18>
+(/usr/share/texmf-dist/tex/platex/jsclasses/jsarticle.cls
+Document Class: jsarticle 2020/10/09 jsclasses (okumura, texjporg)
+\jsc@mpt=\dimen154
+\jsc@mmm=\dimen155
 \jsc@smallskipamount=\skip47
-LaTeX Info: Redefining \textmc on input line 496.
-LaTeX Info: Redefining \textgt on input line 498.
+LaTeX Info: Redefining \textmc on input line 497.
+LaTeX Info: Redefining \textgt on input line 499.
 \symmincho=\mathgroup4
 LaTeX Font Info:    Overwriting symbol font `mincho' in version `bold'
-(Font)                  JY1/mc/m/n --> JY1/gt/m/n on input line 560.
+(Font)                  JY1/mc/m/n --> JY1/gt/m/n on input line 561.
 LaTeX Font Info:    Font shape `JT1/mc/m/n' will be
-(Font)              scaled to size 9.60999pt on input line 751.
+(Font)              scaled to size 9.60999pt on input line 755.
 LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
-(Font)              scaled to size 9.60999pt on input line 751.
-\fullwidth=\dimen152
+(Font)              scaled to size 9.60999pt on input line 755.
+\fullwidth=\dimen156
 LaTeX Font Info:    Font shape `JT1/mc/m/n' will be
-(Font)              scaled to size 7.68799pt on input line 904.
+(Font)              scaled to size 7.68799pt on input line 908.
 LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
-(Font)              scaled to size 7.68799pt on input line 904.
-\c@part=\count166
-\c@section=\count167
-\c@subsection=\count168
-\c@subsubsection=\count169
-\c@paragraph=\count170
-\c@subparagraph=\count171
-\@abstractbox=\box61
-\c@figure=\count172
-\c@table=\count173
+(Font)              scaled to size 7.68799pt on input line 908.
+\c@part=\count178
+\c@section=\count179
+\c@subsection=\count180
+\c@subsubsection=\count181
+\c@paragraph=\count182
+\c@subparagraph=\count183
+\@abstractbox=\box64
+\c@figure=\count184
+\c@table=\count185
 \abovecaptionskip=\skip48
 \belowcaptionskip=\skip49
-\jsc@tocl@width=\dimen153
-\@lnumwidth=\dimen154
-\bibindent=\dimen155
-(/usr/share/texlive/texmf-dist/tex/platex/jsclasses/jslogo.sty
+\jsc@tocl@width=\dimen157
+\@lnumwidth=\dimen158
+\bibindent=\dimen159
+(/usr/share/texmf-dist/tex/platex/jsclasses/jslogo.sty
 Package: jslogo 2019/07/25 okumura, texjporg
-LaTeX Info: Redefining \TeX on input line 94.
-LaTeX Info: Redefining \LaTeX on input line 147.
-LaTeX Info: Redefining \LaTeXe on input line 200.
+LaTeX Info: Redefining \TeX on input line 82.
+LaTeX Info: Redefining \LaTeX on input line 135.
+LaTeX Info: Redefining \LaTeXe on input line 188.
 )
-\heisei=\count174
+\heisei=\count186
 )
-(/usr/share/texlive/texmf-dist/tex/latex/ascmac/ascmac.sty
+(/usr/share/texmf-dist/tex/latex/ascmac/ascmac.sty
 Package: ascmac 2020/01/15 v2.1 ascmac wrapper (community edition) 
 
-(/usr/share/texlive/texmf-dist/tex/latex/ascmac/tascmac.sty
+(/usr/share/texmf-dist/tex/latex/ascmac/tascmac.sty
 Package: tascmac 2020/01/15 v2.1 ascmac package (community edition) 
-\@savetbaselineshift=\dimen156
-\@saveybaselineshift=\dimen157
-\scb@x=\box62
-\scscb@x=\box63
-\@bw=\dimen158
-\@nbox=\box64
-\@nbody=\box65
-\@scw=\dimen159
-\ascmac@hoboxa=\box66
-\ascmac@hoboxb=\box67
-\@itemh=\dimen160
-\@iboxpos=\toks15
-\@iboxstr=\box68
-\@bwsp=\box69
-\@@bwsp=\box70
-\@bcal=\count175
-\shaderule=\dimen161
+\@savetbaselineshift=\dimen160
+\@saveybaselineshift=\dimen161
+\scb@x=\box65
+\scscb@x=\box66
+\@bw=\dimen162
+\@nbox=\box67
+\@nbody=\box68
+\@scw=\dimen163
+\ascmac@hoboxa=\box69
+\ascmac@hoboxb=\box70
+\@itemh=\dimen164
+\@iboxpos=\toks16
+\@iboxstr=\box71
+\@bwsp=\box72
+\@@bwsp=\box73
+\@bcal=\count187
+\shaderule=\dimen165
 ))
-(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+(/usr/share/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip16
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
-Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+(/usr/share/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
 
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+(/usr/share/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
-\KV@toks@=\toks16
+\KV@toks@=\toks17
 )
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
-Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+(/usr/share/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
 
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+(/usr/share/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+(/usr/share/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
-Package graphics Info: Driver file: dvips.def on input line 105.
+Package graphics Info: Driver file: dvipdfmx.def on input line 105.
 
-(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/dvips.def
-File: dvips.def 2017/06/20 v3.1d Graphics/color driver for dvips
+(/usr/share/texmf-dist/tex/latex/graphics-def/dvipdfmx.def
+File: dvipdfmx.def 2021/03/18 v5.0j Graphics/color driver for dvipdfmx
 ))
-\Gin@req@height=\dimen162
-\Gin@req@width=\dimen163
+\Gin@req@height=\dimen166
+\Gin@req@width=\dimen167
 )
-(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
-Package: amsmath 2020/01/20 v2.17e AMS math features
+(/usr/share/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2020/09/23 v2.17i AMS math features
 \@mathmargin=\skip50
 
 For additional information on amsmath, use the `?' option.
-(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+(/usr/share/texmf-dist/tex/latex/amsmath/amstext.sty
 Package: amstext 2000/06/29 v2.01 AMS text
 
-(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+(/usr/share/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks17
-\ex@=\dimen164
+\@emptytoks=\toks18
+\ex@=\dimen168
 ))
-(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+(/usr/share/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
-\pmbraise@=\dimen165
+\pmbraise@=\dimen169
 )
-(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+(/usr/share/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2016/03/08 v2.02 operator names
 )
-\inf@bad=\count176
-LaTeX Info: Redefining \frac on input line 227.
-\uproot@=\count177
-\leftroot@=\count178
-LaTeX Info: Redefining \overline on input line 389.
-\classnum@=\count179
-\DOTSCASE@=\count180
-LaTeX Info: Redefining \ldots on input line 486.
-LaTeX Info: Redefining \dots on input line 489.
-LaTeX Info: Redefining \cdots on input line 610.
-\Mathstrutbox@=\box71
-\strutbox@=\box72
-\big@size=\dimen166
-LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
-LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
-\macc@depth=\count181
-\c@MaxMatrixCols=\count182
+\inf@bad=\count188
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count189
+\leftroot@=\count190
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count191
+\DOTSCASE@=\count192
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box74
+\strutbox@=\box75
+\big@size=\dimen170
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count193
+\c@MaxMatrixCols=\count194
 \dotsspace@=\muskip17
-\c@parentequation=\count183
-\dspbrk@lvl=\count184
-\tag@help=\toks18
-\row@=\count185
-\column@=\count186
-\maxfields@=\count187
-\andhelp@=\toks19
-\eqnshift@=\dimen167
-\alignsep@=\dimen168
-\tagshift@=\dimen169
-\tagwidth@=\dimen170
-\totwidth@=\dimen171
-\lineht@=\dimen172
-\@envbody=\toks20
+\c@parentequation=\count195
+\dspbrk@lvl=\count196
+\tag@help=\toks19
+\row@=\count197
+\column@=\count198
+\maxfields@=\count199
+\andhelp@=\toks20
+\eqnshift@=\dimen171
+\alignsep@=\dimen172
+\tagshift@=\dimen173
+\tagwidth@=\dimen174
+\totwidth@=\dimen175
+\lineht@=\dimen176
+\@envbody=\toks21
 \multlinegap=\skip51
 \multlinetaggap=\skip52
-\mathdisplay@stack=\toks21
-LaTeX Info: Redefining \[ on input line 2859.
-LaTeX Info: Redefining \] on input line 2860.
+\mathdisplay@stack=\toks22
+LaTeX Info: Redefining \[ on input line 2923.
+LaTeX Info: Redefining \] on input line 2924.
 )
-(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+(/usr/share/texmf-dist/tex/latex/amsfonts/amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 
-(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+(/usr/share/texmf-dist/tex/latex/amsfonts/amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \symAMSa=\mathgroup5
 \symAMSb=\mathgroup6
@@ -167,32 +167,29 @@ LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 ))
-(/usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty
+(/usr/share/texmf-dist/tex/latex/tools/multicol.sty
 Package: multicol 2019/12/09 v1.8y multicolumn formatting (FMi)
-\c@tracingmulticols=\count188
-\mult@box=\box73
-\multicol@leftmargin=\dimen173
-\c@unbalance=\count189
-\c@collectmore=\count190
-\doublecol@number=\count191
-\multicoltolerance=\count192
-\multicolpretolerance=\count193
-\full@width=\dimen174
-\page@free=\dimen175
-\premulticols=\dimen176
-\postmulticols=\dimen177
+\c@tracingmulticols=\count266
+\mult@box=\box76
+\multicol@leftmargin=\dimen177
+\c@unbalance=\count267
+\c@collectmore=\count268
+\doublecol@number=\count269
+\multicoltolerance=\count270
+\multicolpretolerance=\count271
+\full@width=\dimen178
+\page@free=\dimen179
+\premulticols=\dimen180
+\postmulticols=\dimen181
 \multicolsep=\skip53
 \multicolbaselineskip=\skip54
-\partial@page=\box74
-\last@line=\box75
-\maxbalancingoverflow=\dimen178
-\mult@rightbox=\box76
-\mult@grightbox=\box77
-\mult@gfirstbox=\box78
-\mult@firstbox=\box79
-\@tempa=\box80
-\@tempa=\box81
-\@tempa=\box82
+\partial@page=\box77
+\last@line=\box78
+\maxbalancingoverflow=\dimen182
+\mult@rightbox=\box79
+\mult@grightbox=\box80
+\mult@gfirstbox=\box81
+\mult@firstbox=\box82
 \@tempa=\box83
 \@tempa=\box84
 \@tempa=\box85
@@ -227,17 +224,20 @@ Package: multicol 2019/12/09 v1.8y multicolumn formatting (FMi)
 \@tempa=\box114
 \@tempa=\box115
 \@tempa=\box116
-\c@minrows=\count194
-\c@columnbadness=\count195
-\c@finalcolumnbadness=\count196
-\last@try=\dimen179
-\multicolovershoot=\dimen180
-\multicolundershoot=\dimen181
-\mult@nat@firstbox=\box117
-\colbreak@box=\box118
-\mc@col@check@num=\count197
+\@tempa=\box117
+\@tempa=\box118
+\@tempa=\box119
+\c@minrows=\count272
+\c@columnbadness=\count273
+\c@finalcolumnbadness=\count274
+\last@try=\dimen183
+\multicolovershoot=\dimen184
+\multicolundershoot=\dimen185
+\mult@nat@firstbox=\box120
+\colbreak@box=\box121
+\mc@col@check@num=\count275
 )
-(/usr/share/texlive/texmf-dist/tex/latex/tools/bm.sty
+(/usr/share/texmf-dist/tex/latex/tools/bm.sty
 Package: bm 2019/07/24 v1.2d Bold Symbol Support (DPC/FMi)
 \symboldoperators=\mathgroup7
 \symboldletters=\mathgroup8
@@ -246,192 +246,205 @@ Package: bm 2019/07/24 v1.2d Bold Symbol Support (DPC/FMi)
 LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 141.
 LaTeX Info: Redefining \bm on input line 209.
 )
-(/usr/share/texlive/texmf-dist/tex/latex/tools/enumerate.sty
+(/usr/share/texmf-dist/tex/latex/here/here.sty)
+(/usr/share/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count276
+\float@exts=\toks23
+\float@box=\box122
+\@float@everytoks=\toks24
+\@floatcapt=\box123
+)
+(/usr/share/texmf-dist/tex/latex/tools/enumerate.sty
 Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
-\@enLab=\toks22
+\@enLab=\toks25
 )
-(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.sty
-\lst@mode=\count198
-\lst@gtempboxa=\box119
-\lst@token=\toks23
-\lst@length=\count199
-\lst@currlwidth=\dimen182
-\lst@column=\count266
-\lst@pos=\count267
-\lst@lostspace=\dimen183
-\lst@width=\dimen184
-\lst@newlines=\count268
-\lst@lineno=\count269
-\lst@maxwidth=\dimen185
+(/usr/share/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count277
+\lst@gtempboxa=\box124
+\lst@token=\toks26
+\lst@length=\count278
+\lst@currlwidth=\dimen186
+\lst@column=\count279
+\lst@pos=\count280
+\lst@lostspace=\dimen187
+\lst@width=\dimen188
+\lst@newlines=\count281
+\lst@lineno=\count282
+\lst@maxwidth=\dimen189
 
-(/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
-File: lstmisc.sty 2019/09/10 1.8c (Carsten Heinz)
-\c@lstnumber=\count270
-\lst@skipnumbers=\count271
-\lst@framebox=\box120
+(/usr/share/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
+\c@lstnumber=\count283
+\lst@skipnumbers=\count284
+\lst@framebox=\box125
 )
-(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.cfg
-File: listings.cfg 2019/09/10 1.8c listings configuration
+(/usr/share/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2020/03/24 1.8d listings configuration
 ))
-Package: listings 2019/09/10 1.8c (Carsten Heinz)
+Package: listings 2020/03/24 1.8d (Carsten Heinz)
 
-(/usr/share/texlive/texmf-dist/tex/latex/fancybox/fancybox.sty
+(/usr/share/texmf-dist/tex/latex/fancybox/fancybox.sty
 Package: fancybox 2010/05/15 1.4
 
 Style option: `fancybox' v1.4 <2010/05/15> (tvz)
-\@fancybox=\box121
-\shadowsize=\dimen186
-\@Sbox=\box122
-\do@VerbBox=\toks24
-\the@fancyput=\toks25
-\this@fancyput=\toks26
-\EndVerbatimTokens=\toks27
+\@fancybox=\box126
+\shadowsize=\dimen190
+\@Sbox=\box127
+\do@VerbBox=\toks27
+\the@fancyput=\toks28
+\this@fancyput=\toks29
+\EndVerbatimTokens=\toks30
 \Verbatim@Outfile=\write3
 \Verbatim@Infile=\read2
-) (/usr/share/texlive/texmf-dist/tex/latex/framed/framed.sty
+) (/usr/share/texmf-dist/tex/latex/framed/framed.sty
 Package: framed 2011/10/22 v 0.96: framed or shaded text with page breaks
 \OuterFrameSep=\skip55
-\fb@frw=\dimen187
-\fb@frh=\dimen188
-\FrameRule=\dimen189
-\FrameSep=\dimen190
+\fb@frw=\dimen191
+\fb@frh=\dimen192
+\FrameRule=\dimen193
+\FrameSep=\dimen194
 )
-(/usr/share/texlive/texmf-dist/tex/latex/subfigure/subfigure.sty
+(/usr/share/texmf-dist/tex/latex/subfigure/subfigure.sty
 Package: subfigure 2002/03/15 v2.1.5 subfigure package
 \subfigtopskip=\skip56
 \subfigcapskip=\skip57
-\subfigcaptopadj=\dimen191
+\subfigcaptopadj=\dimen195
 \subfigbottomskip=\skip58
-\subfigcapmargin=\dimen192
+\subfigcapmargin=\dimen196
 \subfiglabelskip=\skip59
-\c@subfigure=\count272
-\c@lofdepth=\count273
-\c@subtable=\count274
-\c@lotdepth=\count275
+\c@subfigure=\count285
+\c@lofdepth=\count286
+\c@subtable=\count287
+\c@lotdepth=\count288
 
 ****************************************
 * Local config file subfigure.cfg used *
 ****************************************
-(/usr/share/texlive/texmf-dist/tex/latex/subfigure/subfigure.cfg)
+(/usr/share/texmf-dist/tex/latex/subfigure/subfigure.cfg)
 \subfig@top=\skip60
 \subfig@bottom=\skip61
 )
-(/usr/share/texlive/texmf-dist/tex/latex/ccaption/ccaption.sty
+(/usr/share/texmf-dist/tex/latex/ccaption/ccaption.sty
 Package: ccaption 2011/08/07 v3.2c Extended captioning and new floats
 \@contcwidth=\skip62
 \@contindw=\skip63
 \abovelegendskip=\skip64
 \belowlegendskip=\skip65
-\c@newflo@tctr=\count276
+\c@newflo@tctr=\count289
 )
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
-Package: color 2019/11/23 v1.2a Standard LaTeX Color (DPC)
+(/usr/share/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2020/02/24 v1.2b Standard LaTeX Color (DPC)
 
-(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+(/usr/share/texmf-dist/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package color Info: Driver file: dvips.def on input line 147.
 
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def
+(/usr/share/texmf-dist/tex/latex/graphics-def/dvips.def
+File: dvips.def 2017/06/20 v3.1d Graphics/color driver for dvips
+)
+(/usr/share/texmf-dist/tex/latex/graphics/dvipsnam.def
 File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
 ))
-(/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
-File: lstlang1.sty 2019/09/10 1.8c listings language file
+(/usr/share/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2020/03/24 1.8d listings language file
 )
-(/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
-File: lstmisc.sty 2019/09/10 1.8c (Carsten Heinz)
+(/usr/share/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
 )
-(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-dvips.def
-File: l3backend-dvips.def 2020-02-03 L3 backend support: dvips
-\l__pdf_internal_box=\box123
-\g__pdf_backend_object_int=\count277
-\l__pdf_backend_content_box=\box124
-\l__pdf_backend_model_box=\box125
-\g__pdf_backend_annotation_int=\count278
-\g__pdf_backend_link_int=\count279
-\g__pdf_backend_link_sf_int=\count280
-)
-(./class04.aux)
+(/usr/share/texmf-dist/tex/latex/l3backend/l3backend-dvips.def
+File: l3backend-dvips.def 2021-03-18 L3 backend support: dvips
+\l__pdf_internal_box=\box128
+\g__pdf_backend_object_int=\count290
+\l__pdf_backend_content_box=\box129
+\l__pdf_backend_model_box=\box130
+\g__pdf_backend_annotation_int=\count291
+\g__pdf_backend_link_int=\count292
+\g__pdf_backend_link_sf_int=\count293
+) (./class04.aux)
 \openout1 = `class04.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 58.
-LaTeX Font Info:    ... okay on input line 58.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 58.
-LaTeX Font Info:    ... okay on input line 58.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 58.
-LaTeX Font Info:    ... okay on input line 58.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 58.
-LaTeX Font Info:    ... okay on input line 58.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 58.
-LaTeX Font Info:    ... okay on input line 58.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 58.
-LaTeX Font Info:    ... okay on input line 58.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 58.
-LaTeX Font Info:    ... okay on input line 58.
-LaTeX Font Info:    Checking defaults for JY1/mc/m/n on input line 58.
-LaTeX Font Info:    ... okay on input line 58.
-LaTeX Font Info:    Checking defaults for JT1/mc/m/n on input line 58.
-LaTeX Font Info:    ... okay on input line 58.
-\c@lstlisting=\count281
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for JY1/mc/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for JT1/mc/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+\c@lstlisting=\count294
 LaTeX Font Info:    Font shape `JT1/mc/m/n' will be
-(Font)              scaled to size 16.60605pt on input line 62.
+(Font)              scaled to size 16.60605pt on input line 63.
 LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
-(Font)              scaled to size 16.60605pt on input line 62.
+(Font)              scaled to size 16.60605pt on input line 63.
 LaTeX Font Info:    Font shape `JT1/mc/m/n' will be
-(Font)              scaled to size 11.53198pt on input line 62.
+(Font)              scaled to size 11.53198pt on input line 63.
 LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
-(Font)              scaled to size 11.53198pt on input line 62.
+(Font)              scaled to size 11.53198pt on input line 63.
 LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
-(Font)              scaled to size 5.76599pt on input line 62.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 62.
+(Font)              scaled to size 5.76599pt on input line 63.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 63.
 
- (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+(/usr/share/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 62.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 63.
 
 
-(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+(/usr/share/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
-(Font)              scaled to size 11.53198pt on input line 62.
+(Font)              scaled to size 11.53198pt on input line 63.
 LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
-(Font)              scaled to size 7.68799pt on input line 62.
+(Font)              scaled to size 7.68799pt on input line 63.
 LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
-(Font)              scaled to size 5.76599pt on input line 62.
+(Font)              scaled to size 5.76599pt on input line 63.
 LaTeX Font Info:    Font shape `JT1/mc/m/n' will be
-(Font)              scaled to size 13.83836pt on input line 64.
+(Font)              scaled to size 13.83836pt on input line 65.
 LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
-(Font)              scaled to size 13.83836pt on input line 64.
+(Font)              scaled to size 13.83836pt on input line 65.
 LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
-(Font)              scaled to size 13.83836pt on input line 64.
+(Font)              scaled to size 13.83836pt on input line 65.
 LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
-(Font)              scaled to size 13.83836pt on input line 64.
+(Font)              scaled to size 13.83836pt on input line 65.
 LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
-(Font)              scaled to size 6.72699pt on input line 69.
+(Font)              scaled to size 6.72699pt on input line 70.
 LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
-(Font)              scaled to size 4.805pt on input line 69.
+(Font)              scaled to size 4.805pt on input line 70.
 LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
-(Font)              scaled to size 9.60999pt on input line 69.
+(Font)              scaled to size 9.60999pt on input line 70.
 LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
-(Font)              scaled to size 6.72699pt on input line 69.
+(Font)              scaled to size 6.72699pt on input line 70.
 LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
-(Font)              scaled to size 4.805pt on input line 69.
+(Font)              scaled to size 4.805pt on input line 70.
  [1
 
 ]
 LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
-(Font)              scaled to size 9.60999pt on input line 106.
+(Font)              scaled to size 9.60999pt on input line 107.
  [2]
-(./class04.aux) ) 
+File: emagram.png Graphic file (type bmp)
+ <emagram.png>
+[3] (./class04.aux) ) 
 Here is how much of TeX's memory you used:
- 4553 strings out of 481768
- 60099 string characters out of 5933620
- 506451 words of memory out of 5000000
- 19898 multiletter control sequences out of 15000+600000
- 552285 words of font info for 113 fonts, out of 8000000 for 9000
+ 4752 strings out of 479466
+ 63390 string characters out of 5875814
+ 569064 words of memory out of 5000000
+ 22360 multiletter control sequences out of 15000+600000
+ 423377 words of font info for 116 fonts, out of 8000000 for 9000
  934 hyphenation exceptions out of 8191
- 30i,7n,51p,235b,342s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 68i,8n,74p,242b,386s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on class04.dvi (2 pages, 13476 bytes).
+Output written on class04.dvi (3 pages, 17072 bytes).
