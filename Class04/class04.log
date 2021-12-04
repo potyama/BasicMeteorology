@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.141592653-p3.9.0-210218-2.6 (utf8.euc) (TeX Live 2021/Arch Linux) (preloaded format=platex 2021.6.6)  4 DEC 2021 22:13
+This is e-pTeX, Version 3.141592653-p3.9.0-210218-2.6 (utf8.euc) (TeX Live 2021/Arch Linux) (preloaded format=platex 2021.6.6)  4 DEC 2021 22:59
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -434,17 +434,14 @@ LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
 ]
 LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
 (Font)              scaled to size 9.60999pt on input line 107.
- [2]
-File: emagram.png Graphic file (type bmp)
- <emagram.png>
-[3] (./class04.aux) ) 
+ [2] [3] (./class04.aux) ) 
 Here is how much of TeX's memory you used:
- 4752 strings out of 479466
- 63390 string characters out of 5875814
+ 4744 strings out of 479466
+ 63281 string characters out of 5875814
  569064 words of memory out of 5000000
- 22360 multiletter control sequences out of 15000+600000
+ 22356 multiletter control sequences out of 15000+600000
  423377 words of font info for 116 fonts, out of 8000000 for 9000
  934 hyphenation exceptions out of 8191
  68i,8n,74p,242b,386s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on class04.dvi (3 pages, 17072 bytes).
+Output written on class04.dvi (3 pages, 16860 bytes).
