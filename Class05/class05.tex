@@ -128,11 +128,76 @@ backgroundcolor={\color[gray]{.90}},
 \begin{problems}
 % 以下に解答を作成してGit Push。
 \item 
+\begin{enumerate}[(1)]
+\item
+	\begin{enumerate}[(A)]
+		\item エーロゾル
+		\item 併合過程
+		\item 暖かい
+		\item 冷たい
+		\item 温暖
+		\item 寒冷
+	\end{enumerate}
 
+\item 1~2時間
+\item 分子の$x_0^2$が小さくなり、分母もRのみで考えれば良いので、大きいときよりも衝突係数が小さくなる。
+
+\item 水の融点は0℃なので、低いと雪になりやすい。また、湿度が低いと蒸発したときの水によって周囲の空気が冷やされる。そのため、雪が溶けることなく地表に到達できるため、気温や湿度が低いほうが良い。
+\end{enumerate}
+\item
+\begin{enumerate}[(1)]
+	\item
+	Raoultの法則は
+		\begin{align*}
+			\frac{e'}{e} = \frac{n_w}{n_w+n_s}
+		\end{align*}
+	である。$n_w$は純粋の分子数、$n_s$は溶質の分子数である。また、問題文より希釈されているので$n_w << n_s$であるので、
+		\begin{align*}
+			\frac{e'}{e} = 1 -\frac{n_s}{n_w}
+		\end{align*}
+と近似表現できる。
+	半径rなので、体積Vは
+		\begin{align*}
+			V = \frac{4}{3}\pi r^3
+		\end{align*}
+	である。よって、水の質量$m_w$は
+		\begin{align*}
+			m_w = V\rho_w = \frac{4}{3}\pi r^3 \rho_w
+		\end{align*}
+	である。よって、$n_w$は
+		\begin{align*}
+			n_w = V\rho_w = \frac{\frac{4}{3}\pi r^3 \rho_w}{M_w}
+		\end{align*}
+		である。
+		よって、
+		\begin{align*}
+			\frac{e'}{e} = 1-\frac{n_s}{\frac{\frac{4}{3}\pi r^3 \rho_w}{M_w}}
+		\end{align*}
+		定数をbとすると、
+		\begin{align*}
+			\frac{e'}{e} = 1 - b/r^3
+		\end{align*}
+	となる。
+\item 
+	Kelvinの式は
+		\begin{align*}
+			ln\left(\frac{e_r}{e}\right) = \frac{2\sigma}{\gamma\rho_w R_{\gamma}T}
+	\end{align*}
+	である。eが$e_\infty$であることに注意すると、
+		\begin{align*}
+			\frac{e'}{e_{\infty}} = e^{\frac{2\sigma}{\gamma\rho_w R_{\gamma}T}}
+		\end{align*}
+		である。
 \item 
 
-\item 
-
+\item
+\end{enumerate}
+\item
+	\begin{enumerate}[(1)]
+		\item 煙が上がることで、大気中にエーロゾルが大量に浮遊する。このエーロゾルが凝結核となり、雲粒が形成される。結果、水滴が落ちてきて雨が降るので科学的に有効と考えられている。
+		\item 気温、湿度が低いところは向いていない。雲粒ができて水滴が落ちても、湿度が低いと雪になってしまい水滴が落ちてこないから。
+	\end{enumerate}
+	
 \end{problems}
 
 \section{読書案内}
