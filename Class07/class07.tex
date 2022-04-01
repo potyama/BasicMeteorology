@@ -105,12 +105,30 @@ backgroundcolor={\color[gray]{.90}},
 \section{答案}
 \begin{problems}
 % 以下に解答を作成してGit Push。
-\item 
+\item
+    \begin{eqnarray}
+    \frac{du}{dt}-\frac{\tan\varphi}{a}uv -fv &=& F_{\lambda} - \frac{1}{\rho a \cos\varphi}\frac{\partial p}{\partial \lambda}\\
+    \frac{dv}{dt}-\frac{\tan\varphi}{a}u^2 -fu &=& F_{\varphi} - \frac{1}{\rho  a}\frac{\partial p}{\partial \varphi}\\
+    -\frac{1}{\rho}\frac{\partial p}{\partial z}-g &=& 0\\
+    C_p\frac{dT}{dt}-\frac{1}{\rho}\frac{dp}{dt} &=& Q\\
+    p &=& \rho R T\\
+    \frac{d\rho}{dt} + \rho\nabla\cdot \bm{v}&=& 0\\
+    \end{eqnarray}
+  変数:\\  λ:経度, φ:緯度, a:地球の半径, f:摩擦力, u:x方向(緯線)の速度, v:y方向(経線)の速度\\
+(1)水平方向(緯線)の運動方程式\\
+左辺1項目はx方向の加速度、2項目は風による摩擦力、3項目はコリオリ力となる。右辺1項目は経度の摩擦力、2項目は気圧傾度力である。
+(2)水平方向(経線)の運動方程式\\
+左辺1項目はy方向の加速度、2項目は風による摩擦力、3項目はコリオリ力となる。右辺1項目は緯度の摩擦力、2項目は気圧傾度力である。
+(3)鉛直方向の運動方程式\\
+
+(4)熱力学第1法則
+(5)状態方程式
+(6)連続の式
+
 
 \item 
 
 \item 
-
 \end{problems}
 
 \end{document}
