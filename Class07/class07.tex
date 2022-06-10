@@ -159,13 +159,41 @@ backgroundcolor={\color[gray]{.90}},
         よって約16mずれる。
 
         \item
+        地球中心からの距離rにある物体の緯度方向の角運動量は保存されるので、
+        \begin{eqnarray}
+            r^2\left(\Omega + \frac{d\phi}{dt}\right) = const
+        \end{eqnarray}
+        となる。これを時間微分すると、$2r(\Omega + \frac{d\phi}{dt})\frac{dr}{dt} + r^2\frac{d^2\phi}{dt^2} = 0$となり、変形すると$\frac{d^2\phi}{dt^2} = -\frac{2}{r}(\Omega + \frac{d\phi}{dt})\frac{dr}{dt}$となる。
 
+        高さ5000mのため、重力加速度がほぼ一定と見なせるので、$\frac{dr}{dt} = -gt$となる。また、$|\Omega| \gg |\frac{d\phi}{dt}|$なので、
+        \begin{eqnarray}
+        \frac{d^2 \phi}{dt^2} \simeq \frac{2\Omega g}{r} t
+        \end{eqnarray}
+        となる。
+
+        時間積分すると、$\phi = \frac{\Omega g}{3r}t^3 + C_0t + C_1$となる。ただし$C_0,C_1$は積分定数。
+
+        物体が落下した直後はt=0であり、$\phi=0, \frac{d\phi}{dt}=$なので、$C_0 = 0$である。
+        
+        地面に到着する直後はt=T, $\phi = \theta$とすると、$C_1=0$となる。
+
+        従って、$\theta = \frac{\Omega g T^3}{3r}$となる。
+
+        一方、鉛直方向の運動はt=0のときr = a+h, t=Tのときr = aとなる。(aは地球の半径)よって、h = $\frac{1}{2}gT^2$となる。
+
+        従って、$\theta = \frac{\Omega g T^3}{3r} = \frac{\Omega(2h)^(3/2)}{3r\sqrt(g)}$となる。また、r$\simeq$aなので、$\frac{\Omega(2h)^(3/2)}{3a\sqrt(g)}$と見れる。
+
+        以上より、7.764...となり、約7.76m東にずれる。
         \item
 状態方程式より、p=$\rho$ RTとなり、$\rho = \frac{P}{RT}$と変形できる。また、円の速度はv = r$\Omega$で求まる。
 
 旋衝風の式$V^2 = \frac{r}{\rho}\frac{\partial p}{\partial r}$に、状態方程式を代入すると、$V^2 = \frac{rRT}{p}\frac{\partial p}{\partial r}$である。
 
-この式をpについて解くと、$p = A\exp^{\frac{r^2}{2RT}}$となる。ただし、Aは任意定数である。また、$A = \frac{p}{\exp^{\frac{r^2}{2RT}}}$を解くとAの値は約941.3となる。
+この式をpについて解くと、
+\begin{eqnarray}
+p = A\exp^{\frac{r^2}{2RT}}
+\end{eqnarray}
+となる。ただし、Aは任意定数である。また、$A = \frac{p}{\exp^{\frac{r^2}{2RT}}}$を解くとAの値は約941.3となる。
 
 よって、竜巻の中心では、941.3hPa,50m離れたところでは、955.6hPaである。
 
