@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.141592653-p3.9.1-210218-2.6 (utf8.euc) (TeX Live 2022/dev/Debian) (preloaded format=platex 2023.6.20)  21 SEP 2023 20:46
+This is e-pTeX, Version 3.141592653-p3.9.1-210218-2.6 (utf8.euc) (TeX Live 2022/dev/Debian) (preloaded format=platex 2023.6.20)  21 SEP 2023 21:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -424,17 +424,17 @@ LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
 File: maebashi.eps Graphic file (type eps)
  <maebashi.eps>
 LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
-(Font)              scaled to size 9.60999pt on input line 126.
+(Font)              scaled to size 9.60999pt on input line 128.
 LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
-(Font)              scaled to size 9.60999pt on input line 126.
+(Font)              scaled to size 9.60999pt on input line 128.
 LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
-(Font)              scaled to size 6.72699pt on input line 126.
+(Font)              scaled to size 6.72699pt on input line 128.
 LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
-(Font)              scaled to size 4.805pt on input line 126.
+(Font)              scaled to size 4.805pt on input line 128.
 LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
-(Font)              scaled to size 6.72699pt on input line 126.
+(Font)              scaled to size 6.72699pt on input line 128.
 LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
-(Font)              scaled to size 4.805pt on input line 126.
+(Font)              scaled to size 4.805pt on input line 128.
 
 [2] (./class11.aux) ) 
 Here is how much of TeX's memory you used:
@@ -444,6 +444,6 @@ Here is how much of TeX's memory you used:
  23421 multiletter control sequences out of 15000+600000
  489206 words of font info for 117 fonts, out of 8000000 for 9000
  934 hyphenation exceptions out of 8191
- 55i,7n,62p,279b,476s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 55i,7n,62p,366b,476s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on class11.dvi (2 pages, 9220 bytes).
+Output written on class11.dvi (2 pages, 10292 bytes).
